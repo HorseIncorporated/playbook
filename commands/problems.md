@@ -4,6 +4,12 @@ this document is used to track asequential series of problems and solutions. som
 
 > **Problem**: commands arent discoverable
 > 
-> **Solution**: build a client with a form that
+> **Solution**: let's create a local nextjs app that contains a `commands` page
+
+---
+
+> **Problem**: commands arent configurable
+> 
+> **Solution**: let's create a new command from NLQ
 
 
